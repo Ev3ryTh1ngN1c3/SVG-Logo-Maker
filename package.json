@@ -1,0 +1,14 @@
+{
+    "name": "SVG-Logo-Maker",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "dependency-name": "version"
+    },
+    "devDependencies": {
+      "dev-dependency-name": "version"
+    }
+  }
