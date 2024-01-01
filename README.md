@@ -12,3 +12,6 @@ A Node.js command-line application that takes in user input to generate a logo
 - [Setup](#setup)
 - [Usage Instructions](#usage-instructions)
 - [Acknowledgments](#acknowledgments)
+
+## Acknowledgments
+thank you to Thomas Calle : https://github.com/ThomasCalle
