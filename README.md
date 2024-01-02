@@ -22,7 +22,7 @@ With this application I learned to use Jest for running unit tests
 ## Setup
 Clone the repository following command:
 
-git clone git@github.com: Ev3ryTh1ngN1c3/SVG-Logo-Maker.git
+git clone : https://github.com/Ev3ryTh1ngN1c3/SVG-Logo-Maker
 
 then run the following command:
 
