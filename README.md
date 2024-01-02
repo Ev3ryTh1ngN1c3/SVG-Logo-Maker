@@ -21,26 +21,24 @@ With this application I learned to use Jest for running unit tests
 
 ## Setup
 Clone the repository following command:
-
-git clone git@github.com:Ev3ryTh1ngN1c3/SVG-Logo-Maker.git
-
+git clone git@github.com: Ev3ryTh1ngN1c3/SVG-Logo-Maker.git
 then run the following command:
-
 npm install
 Once installed, start the application with the following command:
-
 npm start
-
-To access the application: open your web browser to http://localhost:3000 to access the SVG Logo Maker.
 
 ## Usage Instructions
 Customize a simple logo:
 options include shape, color & text
 
 Select shape
+
 Customize shape color
+
 Add text
+
 Experiment with different shapes, colors & text options 
+
 to create unique & visually appealing logo using the SVG Logo Maker.
 
 ## Acknowledgments
