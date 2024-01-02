@@ -21,10 +21,15 @@ With this application I learned to use Jest for running unit tests
 
 ## Setup
 Clone the repository following command:
+
 git clone git@github.com: Ev3ryTh1ngN1c3/SVG-Logo-Maker.git
+
 then run the following command:
+
 npm install
+
 Once installed, start the application with the following command:
+
 npm start
 
 ## Usage Instructions
