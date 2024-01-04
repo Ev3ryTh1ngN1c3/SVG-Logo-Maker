@@ -48,3 +48,4 @@ to create unique & visually appealing logo using the SVG Logo Maker.
 
 ## Acknowledgments
 thank you to Thomas Calle : https://github.com/ThomasCalle
+UCF Bootcamp Tutor : Trinh Nguyen 
