@@ -122,9 +122,9 @@ async function init() {
 //  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill='${user_shape.textColor}'>${user_shape.text}</text>
 // </svg>`
 
-let svgString = <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+let svgString = `<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
-</svg>
+</svg>`
  
     //display shape
     console.log("Displaying shape:\n\n" + svgString);
